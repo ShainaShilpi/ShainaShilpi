@@ -72,11 +72,18 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ShainaShilpi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shaina's Github Stats" width="60%">
+  
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShainaShilpi&theme=dark" alt="ShainaShilpi" />
 
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ShainaShilpi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shaina's Top Languages">
+<!-- <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ShainaShilpi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shaina's Top Languages"> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShainaShilpi&theme=dark" alt="ShainaShilpi" /></p>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShainaShilpi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ShainaShilpi" />
+
+<br>
+
+<p align = "center"><img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ShainaShilpi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shaina's Github Stats" width="60%"></p>
 
 <br>
 
