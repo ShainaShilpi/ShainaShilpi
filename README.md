@@ -76,7 +76,7 @@
 
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ShainaShilpi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shaina's Top Languages">
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShainaShilpi&theme=dark" alt="ShainaShilpi" /></p>
 
 <br>
 
