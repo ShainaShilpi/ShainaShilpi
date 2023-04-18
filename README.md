@@ -6,6 +6,8 @@
   <h1 align="center"><b>Hello there, I'm Shaina 👋</b></h1>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShainaShilpi&label=Profile%20views&color=0e75b6&style=flat" alt="ShainaShilpi" /> </p>
+
 <p>
   <h4 align="center"><b>"Passionately Curious"</b></h4>
 </p>
